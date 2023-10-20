@@ -1,0 +1,14 @@
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.AssemblyInfoInputs.cache
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.AssemblyInfo.cs
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.csproj.CoreCompileInputs.cache
+/Users/banugenel/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer
+/Users/banugenel/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.deps.json
+/Users/banugenel/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.runtimeconfig.json
+/Users/banugenel/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.dll
+/Users/banugenel/Projects/Freelancer/Freelancer/bin/Debug/net7.0/Freelancer.pdb
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.dll
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/refint/Freelancer.dll
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.pdb
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/Freelancer.genruntimeconfig.cache
+/Users/banugenel/Projects/Freelancer/Freelancer/obj/Debug/net7.0/ref/Freelancer.dll
